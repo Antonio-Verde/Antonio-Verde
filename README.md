@@ -15,9 +15,9 @@ Questo profilo raccoglie i miei progetti universitari, gli esercizi tecnici e un
 
 Alcuni lavori universitari sono stati svolti in gruppo; le rispettive presentazioni riportano il contesto del progetto.
 
-## Demo tecniche
+## Esperimenti in sviluppo
 
-[ML Deploy Demo](https://github.com/Antonio-Verde/ml-deploy-demo) — Un esempio di deployment di un modello scikit-learn attraverso un'API FastAPI, con Docker, test automatici e metriche Prometheus.
+[ML Deploy Demo](https://github.com/Antonio-Verde/ml-deploy-demo) — Demo iniziale di un servizio di inferenza con scikit-learn, FastAPI e Docker. Il progetto è in sviluppo.
 
 ## Lavori per clienti
 
