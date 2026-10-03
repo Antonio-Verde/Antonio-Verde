@@ -2,40 +2,42 @@
 
 **AI & Machine Learning Engineer | Statistical Modeling & Data Science**
 
-Il mio percorso unisce modellazione statistica, data science e sviluppo software, con un focus sull'AI engineering: comprendere un problema attraverso i dati, valutare i modelli e integrarli in applicazioni utilizzabili.
+My work combines statistical modeling, data science and software development, with a focus on AI engineering: understanding problems through data, evaluating models and integrating them into usable applications.
 
-Nei progetti raccolti qui applico questo approccio alla previsione su dati tabellari e all'analisi del testo. La statistica è la base con cui interpreto i risultati, verifico le assunzioni e riconosco i limiti dei modelli. I lavori per clienti documentano anche la componente di sviluppo software del mio percorso.
+My projects cover prediction on tabular data and text analysis. Statistics provides the foundation for interpreting results, checking assumptions and understanding model limitations. My client projects also show the software development side of my work.
 
-## Machine learning e valutazione dei modelli
+**Career focus:** AI and machine learning opportunities in Amsterdam.
+
+## Machine learning and model evaluation
 
 ### [Predictive Modeling — Garment Productivity](https://github.com/Antonio-Verde/garment-productivity)
 
-Progetto universitario di gruppo sulla previsione della produttività nel settore tessile. Il lavoro comprende preparazione dei dati, confronto di algoritmi di regressione, ottimizzazione degli iperparametri e valutazione con RMSE, MAE e R².
+A university team project on predicting productivity in garment manufacturing. The work covers data preparation, comparison of regression algorithms, hyperparameter tuning and evaluation using RMSE, MAE and R².
 
-**Competenza mostrata:** motivare le scelte di modellazione e valutarne la qualità rispetto a un problema applicativo. Il report discute anche possibili sviluppi per il deployment.
+**Skills demonstrated:** explaining modeling choices and evaluating their quality against an applied problem. The project also discusses possible deployment approaches.
 
-## Analisi del testo e modellazione statistica
+## Text analysis and statistical modeling
 
-| Progetto | Problema e approccio | Competenza mostrata |
+| Project | Problem and approach | Skills demonstrated |
 | --- | --- | --- |
-| [NLP & Network Analysis — NetText](https://github.com/Antonio-Verde/nettext) | Studiare la copertura delle crisi del debito attraverso topic modeling, sentiment analysis e reti di co-occorrenza | Estrarre struttura e informazioni da dati testuali con metodi di NLP classico e network science |
-| [AI Transparency & Uncertainty — GLM](https://github.com/Antonio-Verde/glm-transparency) | Modellare le preferenze per trasparenza e accuratezza nell'IA finanziaria, confrontando modelli ordinali e CUB/GeCUB | Analizzare preferenze e incertezza attraverso la modellazione statistica e il confronto tra modelli |
-| [Interpretable Regression — Insurance Costs](https://github.com/Antonio-Verde/insurance-regression) | Analizzare i fattori associati ai costi assicurativi con regressione, interazioni e diagnostica | Interpretare le associazioni, verificare le assunzioni e discutere i limiti di un'analisi osservazionale |
+| [NLP & Network Analysis — NetText](https://github.com/Antonio-Verde/nettext) | Analyze coverage of debt crises through topic modeling, sentiment analysis and term co-occurrence networks | Extract structure and information from text using classical NLP and network science |
+| [AI Transparency & Uncertainty — GLM](https://github.com/Antonio-Verde/glm-transparency) | Model preferences for transparency and accuracy in financial AI, comparing ordinal regression and CUB/GeCUB models | Analyze preferences and uncertainty through statistical modeling and model comparison |
+| [Interpretable Regression — Insurance Costs](https://github.com/Antonio-Verde/insurance-regression) | Analyze factors associated with insurance costs using regression, interactions and diagnostics | Interpret associations, check assumptions and discuss the limitations of observational analysis |
 
-Questi lavori nascono in ambito universitario; alcuni sono stati svolti in gruppo. I repository documentano il contesto e il materiale disponibile. Insurance Regression contiene il report PDF; GLM Transparency e NetText richiedono dati esterni per riprodurre l'analisi.
+These projects originated in university coursework; some were completed in teams. Each repository documents the context and available materials. Insurance Regression contains the PDF report; GLM Transparency and NetText require external data to reproduce the analysis. Original academic reports are in Italian.
 
-## Sviluppo di prodotti per clienti
+## Client product development
 
-[Portfolio dei progetti web](https://github.com/Antonio-Verde/portfolio) — Presentazioni di Authentico e Palcoscenico Dancewear, con funzionalità di configurazione di offerte commerciali e di e-commerce.
+[Web Project Portfolio](https://github.com/Antonio-Verde/portfolio) — Case studies of Authentico and Palcoscenico Dancewear, covering commercial quote configuration and e-commerce.
 
-Questi progetti mostrano l'applicazione dello sviluppo software a esigenze concrete di prodotto. Le presentazioni sono pubbliche; i repository con il codice sorgente sono privati.
+These projects show how I apply software development to practical product needs. The case studies are public; the source code repositories are private.
 
-## Esperimenti in sviluppo
+## Work in progress
 
-[ML Deploy Demo](https://github.com/Antonio-Verde/ml-deploy-demo) — Demo iniziale di un servizio di inferenza con scikit-learn, FastAPI e Docker. Il progetto è in sviluppo.
+[ML Deploy Demo](https://github.com/Antonio-Verde/ml-deploy-demo) — An initial model serving demo with scikit-learn, FastAPI and Docker. This project is still in development.
 
-## Competenze applicate
+## Applied skills
 
-- **Modellazione e valutazione:** Python, R, scikit-learn, regressione, confronto tra modelli e diagnostica statistica.
-- **Testo e reti:** topic modeling, sentiment analysis e network science.
-- **Documentazione e prodotti:** Git, Quarto, API, interfacce e configuratori.
+- **Modeling and evaluation:** Python, R, scikit-learn, regression, model comparison and statistical diagnostics.
+- **Text and networks:** topic modeling, sentiment analysis and network science.
+- **Documentation and products:** Git, Quarto, APIs, interfaces and configurators.
