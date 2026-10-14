@@ -1,43 +1,47 @@
 # Antonio Verde
 
-**AI & Machine Learning Engineer | Statistical Modeling & Data Science**
+**AI Engineer | LLM Applications · Data Engineering · Statistical Modeling**
 
-My work combines statistical modeling, data science and software development, with a focus on AI engineering: understanding problems through data, evaluating models and integrating them into usable applications.
+I build AI applications and data workflows, combining Python backend development with statistical modeling and model evaluation. My projects connect language models to structured data, APIs and user-facing applications.
 
-My projects cover prediction on tabular data and text analysis. Statistics provides the foundation for interpreting results, checking assumptions and understanding model limitations. My client projects also show the software development side of my work.
+**Career focus:** AI engineering and applied machine learning opportunities in Amsterdam.
 
-**Career focus:** AI and machine learning opportunities in Amsterdam.
+## Featured AI applications
 
-## Machine learning and model evaluation
+### [Career Tracker](https://github.com/Antonio-Verde/portfolio/blob/main/progetti/career-tracker.md)
 
-### [Predictive Modeling — Garment Productivity](https://github.com/Antonio-Verde/garment-productivity)
+A personal dashboard for job discovery and application tracking. It combines scheduled collection from public career sources, structured LLM extraction, validated natural-language search filters and Outlook integration.
 
-A university team project on predicting productivity in garment manufacturing. The work covers data preparation, comparison of regression algorithms, hyperparameter tuning and evaluation using RMSE, MAE and R².
+**Built with:** Python, FastAPI, Pydantic, Next.js, OpenAI, Anthropic, PostgreSQL and GitHub Actions.
 
-**Skills demonstrated:** explaining modeling choices and evaluating their quality against an applied problem. The project also discusses possible deployment approaches.
+### [Personal Trainer LLM](https://github.com/Antonio-Verde/portfolio/blob/main/progetti/personal-trainer-llm.md)
 
-## Text analysis and statistical modeling
+A training-management PWA with a LangChain/Groq assistant and six read-only tools for retrieving trainer-scoped client and operational data. The project also includes an offline evaluation harness with synthetic records.
 
-| Project | Problem and approach | Skills demonstrated |
-| --- | --- | --- |
-| [NLP & Network Analysis — NetText](https://github.com/Antonio-Verde/nettext) | Analyze coverage of debt crises through topic modeling, sentiment analysis and term co-occurrence networks | Extract structure and information from text using classical NLP and network science |
-| [AI Transparency & Uncertainty — GLM](https://github.com/Antonio-Verde/glm-transparency) | Model preferences for transparency and accuracy in financial AI, comparing ordinal regression and CUB/GeCUB models | Analyze preferences and uncertainty through statistical modeling and model comparison |
-| [Interpretable Regression — Insurance Costs](https://github.com/Antonio-Verde/insurance-regression) | Analyze factors associated with insurance costs using regression, interactions and diagnostics | Interpret associations, check assumptions and discuss the limitations of observational analysis |
+**Built with:** FastAPI, PostgreSQL, LangChain, Groq, Docker and JavaScript.
 
-These projects originated in university coursework; some were completed in teams. Each repository documents the context and available materials. Insurance Regression contains the PDF report; GLM Transparency and NetText require external data to reproduce the analysis. Original academic reports are in Italian.
+Both case studies describe implemented features and current limitations. Application source code is private. The trainer project's saved synthetic evaluation is not a benchmark of the live LLM assistant.
 
-## Client product development
+## Statistical modeling and machine learning
 
-[Web Project Portfolio](https://github.com/Antonio-Verde/portfolio) — Case studies of Authentico and Palcoscenico Dancewear, covering commercial quote configuration and e-commerce.
+| Project | Focus |
+| --- | --- |
+| [Garment Productivity](https://github.com/Antonio-Verde/garment-productivity) | Data preparation, regression-model comparison, tuning and cross-validation |
+| [AI Transparency and Uncertainty](https://github.com/Antonio-Verde/glm-transparency) | Ordinal regression and CUB/GeCUB models for preferences and response uncertainty |
+| [Insurance Costs](https://github.com/Antonio-Verde/insurance-regression) | Interpretable regression, interactions and model diagnostics |
+| [NetText](https://github.com/Antonio-Verde/nettext) | Topic modeling, sentiment analysis and term co-occurrence networks |
 
-These projects show how I apply software development to practical product needs. The case studies are public; the source code repositories are private.
+These projects originated in university coursework; some were completed in teams. Each repository explains its context and available materials. Insurance Regression contains a PDF report; GLM Transparency and NetText require external data to reproduce the analysis. Original academic reports are in Italian.
 
-## Work in progress
+## Other software projects
 
-[ML Deploy Demo](https://github.com/Antonio-Verde/ml-deploy-demo) — An initial model serving demo with scikit-learn, FastAPI and Docker. This project is still in development.
+[Portfolio](https://github.com/Antonio-Verde/portfolio) includes public case studies of **Authentico**, a commercial quote configurator, and **Palcoscenico Dancewear**, an e-commerce project in development. Their source code is private.
+
+[ML Deploy Demo](https://github.com/Antonio-Verde/ml-deploy-demo) is an initial scikit-learn, FastAPI and Docker model-serving project, still in development.
 
 ## Applied skills
 
-- **Modeling and evaluation:** Python, R, scikit-learn, regression, model comparison and statistical diagnostics.
-- **Text and networks:** topic modeling, sentiment analysis and network science.
-- **Documentation and products:** Git, Quarto, APIs, interfaces and configurators.
+- **AI applications:** structured LLM outputs, tool calling, RAG and evaluation design.
+- **Backend and data:** Python, FastAPI, SQL, PostgreSQL, AWS, Dask and API integration.
+- **Modeling:** R, scikit-learn, regression, cross-validation and statistical diagnostics.
+- **Delivery:** Git, Docker, GitHub Actions and technical documentation.
